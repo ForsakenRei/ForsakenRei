@@ -1,9 +1,9 @@
 
 <div align="center">
-	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-brown-beta.vercel.app/api?username=forsakenrei&show_icons=true&theme=tokyonight"></a>
+	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-swart-rho.vercel.app/api?username=forsakenrei&show_icons=true&theme=tokyonight"></a>
 	<br>
 	<br>
-	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-brown-beta.vercel.app/api/top-langs/?username=forsakenrei&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B"></a>
+	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-swart-rho.vercel.app/api/top-langs/?username=forsakenrei&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B"></a>
     <br>
 	<br>
 	<h3 align="center"><i>Diving into the custom keyboard rabbit hole with QMK.</i></h3>
