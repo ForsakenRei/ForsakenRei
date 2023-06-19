@@ -1,6 +1,6 @@
 
 <div align="center">
-	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-forsakenrei.vercel.app/api?username=forsakenrei&show_icons=true&theme=tokyonight"></a>
+	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-forsakenrei.vercel.app/api?username=forsakenrei&show_icons=true&theme=tokyonight&rank_icon=progress"></a>
 	<br>
 	<br>
 	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-forsakenrei.vercel.app/api/top-langs/?username=forsakenrei&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B"></a>
