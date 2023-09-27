@@ -7,6 +7,7 @@
     <br>
 	<br>
 	<h3 align="center"><i>Diving into the custom keyboard rabbit hole with QMK.</i></h3>
-	<h3 align="center"><i>Daily driver: Space65 R3 + Strawberry Milk Ice* + NicePBT Noel.</i></h3>
-	<p align="center"><i>*58g spring swapped.</i></p>
+<!-- 	<h3 align="center"><i>Daily driver: Space65 R3 + Strawberry Milk Ice* + NicePBT Noel.</i></h3> -->
+	<h3 align="center"><i>Daily driver: Mode Envoy + Cream Blue Pro + ePBT Dreamscape.</i></h3>
+<!-- 	<p align="center"><i>*58g spring swapped.</i></p> -->
 </div>
