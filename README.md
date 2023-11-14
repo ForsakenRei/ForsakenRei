@@ -13,7 +13,6 @@
 	<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080?style=for-the-badge&logo=latex&logoColor=white">
 	<br>
 	<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-	<img alt="QMK" src="https://img.shields.io/badge/qmk-%23333333?style=for-the-badge&logo=qmk&logoColor=white">
 	<img alt="Zsh" src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white">
 	<img alt="Neovim" src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
 	<img alt="VSCode" src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -28,6 +27,7 @@
 	<img alt="TrueNAS" src="https://img.shields.io/badge/truenas-%230095D5?style=for-the-badge&logo=truenas&logoColor=white">
 	<img alt="Proxmox" src="https://img.shields.io/badge/proxmox-%23E57000?style=for-the-badge&logo=proxmox&logoColor=white">
 	<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+	<img alt="QMK" src="https://img.shields.io/badge/qmk-%23333333?style=for-the-badge&logo=qmk&logoColor=white">
 	<br>
 	<h3 align="center">Diving into the custom keyboard rabbit hole.</h3>
 <!-- 	<h3 align="center"><i>Daily driver: Space65 R3 + Strawberry Milk Ice* + NicePBT Noel.</i></h3> -->
