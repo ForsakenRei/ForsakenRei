@@ -31,7 +31,11 @@
 	<img alt="Proxmox" src="https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
 	<img alt="Nginx" src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 	<br>
-	<h3 align="center">Diving into the custom keyboard rabbit hole.</h3>
+	<br>
+	<b align="center", style="font-size:20px;">Diving into the custom keyboard rabbit hole.</b>
+	<br>
+	<br>
+	<b align="center" style="font-size:160%;">Keep learning, coding and contributing.</b>
 <!-- 	<h3 align="center"><i>Daily driver: Space65 R3 + Strawberry Milk Ice* + NicePBT Noel.</i></h3> -->
 <!-- 	<h3 align="center">Daily driver: Mode Envoy + Cream Blue Pro + ePBT Dreamscape</h3> -->
 <!-- 	<p align="center"><i>*58g spring swapped.</i></p> -->
