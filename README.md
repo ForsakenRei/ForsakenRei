@@ -3,7 +3,7 @@
 	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-forsakenrei.vercel.app/api?username=forsakenrei&show_icons=true&theme=tokyonight&rank_icon=percentile&show=prs_merged_percentage"></a>
 	<br>
 	<br>
-	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-forsakenrei.vercel.app/api/top-langs/?username=forsakenrei&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B,Dart,Makefile&size_weight=0.5&count_weight=0.5&card_width=350"></a>
+	<a href="https://github.com/forsakenrei"> <img src="https://github-readme-stats-forsakenrei.vercel.app/api/top-langs/?username=forsakenrei&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B,Dart,Makefile&size_weight=0.5&count_weight=0.5"></a>
     	<br>
 	<br>
 	<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
