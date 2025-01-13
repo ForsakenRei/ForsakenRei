@@ -30,8 +30,9 @@
  	<img alt="TrueNAS" src="https://img.shields.io/badge/truenas-0095D5?style=for-the-badge&logo=truenas&logoColor=white">
 	<img alt="Ansible" src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=truenas&logoColor=white">
 	<br>
+	<img alt="Fedora" src="https://img.shields.io/badge/fedora-linux?style=for-the-badge&logo=fedora&logoColor=white&color=%2351A2DA">
 	<img alt="RHEL" src="https://img.shields.io/badge/redhat-linux?style=for-the-badge&logo=redhat&logoColor=white&color=%23EE0000">
-	<img alt="Arch" src="https://img.shields.io/badge/manjaro-linux?style=for-the-badge&logo=manjaro&logoColor=white&color=%2335BF5C">
+	<img alt="Arch" src="https://img.shields.io/badge/arch-linux?style=for-the-badge&logo=archlinux&logoColor=white&color=%231793D1">
 	<img alt="Dibian" src="https://img.shields.io/badge/debian-linux?style=for-the-badge&logo=debian&color=%23d70a53">
 	<img alt="Alpine" src="https://img.shields.io/badge/alpine-linux?style=for-the-badge&logo=alpine-linux&color=%230D597F">
 	<br>
